@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSGame.Domain", "RPSGame.Domain\RPSGame.Domain.csproj", "{0E8AE1AF-748D-43F5-8BC4-20832760943A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSGame.Domain.Test", "RPSGame.Domain.Test\RPSGame.Domain.Test.csproj", "{0108B6F2-D3C2-4F85-B499-04E3C48D77DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSGame.Console", "RPSGame.Console\RPSGame.Console.csproj", "{6ED2330F-B7B5-4B0B-8E27-70B23FA70D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8AE1AF-748D-43F5-8BC4-20832760943A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8AE1AF-748D-43F5-8BC4-20832760943A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8AE1AF-748D-43F5-8BC4-20832760943A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8AE1AF-748D-43F5-8BC4-20832760943A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0108B6F2-D3C2-4F85-B499-04E3C48D77DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0108B6F2-D3C2-4F85-B499-04E3C48D77DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0108B6F2-D3C2-4F85-B499-04E3C48D77DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0108B6F2-D3C2-4F85-B499-04E3C48D77DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED2330F-B7B5-4B0B-8E27-70B23FA70D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED2330F-B7B5-4B0B-8E27-70B23FA70D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED2330F-B7B5-4B0B-8E27-70B23FA70D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED2330F-B7B5-4B0B-8E27-70B23FA70D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
